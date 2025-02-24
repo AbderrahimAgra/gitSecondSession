@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+
+  header{
+    height: 80vh;
+    background-image: url(backgroundImg.jpg);
+    background-size: cover;
+  }
+}
+
+.redcolor{
+  background-color: red;
+  color: rgb(98, 255, 0);
+}
+#yellowcolor{
+  background-color: yellow;
+  color: black;
+  border: solid 5px rgb(49, 252, 3);
+  
+}
+div{
+  color: rgb(231, 235, 12) !important;
+  font-size: xx-large;
+  /* border: solid 5px rgb(15, 14, 14); */
+}
+#red{
+  border: solid 5px rgb(15, 14, 14);
+}
